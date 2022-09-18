@@ -10892,6 +10892,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cyberpunk_Car
       objectReference: {fileID: 0}
+    - target: {fileID: 671006409924435405, guid: a2b94a41652f96e4b86b27c0ec77bfe5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.96
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a2b94a41652f96e4b86b27c0ec77bfe5, type: 3}
 --- !u!4 &2032203755 stripped
